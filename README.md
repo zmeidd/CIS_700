@@ -10,8 +10,9 @@ tar -xvzf holstep.tgz
 python3 deal.py
 ```
 
-```
+
 ### Run main.py to derive the results and plots
+```
 python3 main.py
 ```
 
