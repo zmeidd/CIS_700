@@ -7,10 +7,8 @@ tar -xvzf holstep.tgz
 ```
 
 ### Replace the HolStep directory in deal.py
-```
-replace  "source_dir = 'D:\Download\holstep'" in main function to 
-your downloaded holstep folder
-```
+replace  "source_dir = 'D:\Download\holstep'" in main function to your downloaded holstep folder
+
 
 ### Run deal.py to get the preprossed numpy files
 ```
